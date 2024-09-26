@@ -13,7 +13,7 @@ Welcome to my Python Projects repository! Here, you will find a collection of sm
    - User input handling
    - Random module for choice selection
 
-   [View the code](link-to-project) | [Play the game](link-to-run)
+   [View the code](https://raw.githubusercontent.com/AyushT50/PythonProjects/refs/heads/main/Snake_Water_Gun_Game.py) 
 
 2. **The Perfect Guess**  
    A fun guessing game where the program randomly selects a number and the player must guess it in as few tries as possible. The game includes user-friendly hints and a scoring system to track progress.
