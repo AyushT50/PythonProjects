@@ -52,5 +52,5 @@ Feel free to explore each project, and if you're interested in seeing more or co
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/AyushT50/PythonProjects.git
+   git clone https://github.com/Ayusht50/PythonProjects.git
 
