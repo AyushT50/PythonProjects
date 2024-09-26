@@ -23,7 +23,7 @@ Welcome to my Python Projects repository! Here, you will find a collection of sm
    - Looping and condition handling
    - User-friendly interaction with scorekeeping
 
-   [View the code](link-to-project)
+   [View the code](https://raw.githubusercontent.com/AyushT50/PythonProjects/refs/heads/main/The_Perfect_Guess.py)
 
 3. **Password Generator**  
    A secure password generator that creates strong, random passwords based on user-defined criteria (length, inclusion of symbols, numbers, etc.). This project focuses on string manipulation and randomness.
@@ -33,7 +33,7 @@ Welcome to my Python Projects repository! Here, you will find a collection of sm
    - List comprehensions for efficiency
    - Use of `random` module to generate secure passwords
 
-   [View the code](link-to-project) | [Generate a password](link-to-run)
+   [View the code](https://raw.githubusercontent.com/AyushT50/PythonProjects/refs/heads/main/password_generator.py) 
 
 ---
 
