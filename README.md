@@ -45,8 +45,8 @@ Input validation and error handling
 Use of dictionaries for efficient data management
 Command-line interface (CLI) for user interaction
 
-   [View the code]
-(https://raw.githubusercontent.com/AyushT50/PythonProjects/refs/heads/main/Cafe_Management_system.py)
+   
+[View the code](https://raw.githubusercontent.com/AyushT50/PythonProjects/refs/heads/main/Cafe_Management_system.py) 
 
 ---
 
