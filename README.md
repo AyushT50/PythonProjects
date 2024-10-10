@@ -35,6 +35,18 @@ Welcome to my Python Projects repository! Here, you will find a collection of sm
 
    [View the code](https://raw.githubusercontent.com/AyushT50/PythonProjects/refs/heads/main/password_generator.py) 
 
+4 Cafe Management System
+A Python-based restaurant ordering system that allows customers to select items from a menu, validates their choices, and calculates the total bill. The project demonstrates the use of functions, input validation, and data structures to simulate a real-world cafe ordering experience.
+
+Skills Demonstrated:
+
+Function-based modular design
+Input validation and error handling
+Use of dictionaries for efficient data management
+Command-line interface (CLI) for user interaction
+
+[View the code](https://raw.githubusercontent.com/AyushT50/PythonProjects/refs/heads/main/Cafe_Management_System.py) 
+
 ---
 
 ## Why These Projects?
